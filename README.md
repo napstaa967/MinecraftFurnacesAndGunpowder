@@ -1,5 +1,6 @@
 # MinecraftFurnacesAndGunpowder
 Mod that makes minecraft furnaces blow up with gunpowder
+For Version 1.20.4
 
 ## This mod will NOT be updated often
 
